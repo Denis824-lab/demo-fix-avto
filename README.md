@@ -4,6 +4,8 @@
 
 **Демо:** https://denis824-lab.github.io/demo-fix-avto/
 
+![Первый экран демо-сайта «Фикс Авто»](preview.png)
+
 ## Основа
 
 - AstroWind (MIT) — шаблон и структура секций;
